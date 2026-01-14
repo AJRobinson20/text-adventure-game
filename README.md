@@ -1,15 +1,3 @@
-# text-adventure-game
-A Python-based text adventure game created as a school project.
-# Text-Based Adventure Game (Python)
+Text-Based Adventure Game (Python)
 
-A text-based adventure game created in Python for a school project.
-
-## How to Run
-1. Install Python 3
-2. Download this repo
-3. Run:
-   python TextBasedGameRevised.py
-
-## Commands
-- North, South, East, West
-- get <item>
+A simple Python text-based adventure game where the player explores rooms, collects clues, and attempts to solve a mystery. This was developed as a school project to demonstrate structured programming, control flow, and interactive input handling. Created by Amaria J. Robinson. 
